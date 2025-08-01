@@ -7,7 +7,7 @@ This Python-based project leverages state-of-the-art NLP models to:
 - Provide **positive suggestions** for negative sentiment 🌈
 - Visualize sentiment with Matplotlib 📊
 
---
+---
 
 ## 🔍 Features
 
